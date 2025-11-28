@@ -41,9 +41,6 @@
         "audios"
       ]
     },
-    "favorite": {
-      "type": "boolean"
-    },
     "categories": {
       "type": "relation",
       "relation": "manyToMany",
@@ -57,6 +54,9 @@
     },
     "slug": {
       "type": "string"
+    },
+    "featured": {
+      "type": "integer"
     }
   }
 }
