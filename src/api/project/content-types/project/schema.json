@@ -55,7 +55,7 @@
       "relation": "oneToMany",
       "target": "api::content.content"
     },
-    "url": {
+    "slug": {
       "type": "string"
     }
   }
