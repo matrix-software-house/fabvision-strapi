@@ -54,6 +54,9 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::content.content"
+    },
+    "url": {
+      "type": "string"
     }
   }
 }
