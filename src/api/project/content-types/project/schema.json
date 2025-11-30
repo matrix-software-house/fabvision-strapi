@@ -57,6 +57,9 @@
     },
     "featured": {
       "type": "integer"
+    },
+    "long_description": {
+      "type": "richtext"
     }
   }
 }
